@@ -35,6 +35,7 @@ h2 {
       color: #824936;
       font-size: 2.8125rem;
       line-height: 1.28em;
+      word-wrap: break-word;
     }
   }
 }
@@ -42,9 +43,9 @@ h2 {
 // MAIN SECTION
 .txt-section {
   padding: 4em 0;
+  text-align: center;
 
   h2 {
-    text-align: center;
     color: #824936;
     font-size: 2rem;
     margin: 0;
@@ -53,7 +54,6 @@ h2 {
 
   .flex-txt {
     padding: 0 1em;
-    font-size: 18px;
 
     p:first-child {
       margin-bottom: 2em;
