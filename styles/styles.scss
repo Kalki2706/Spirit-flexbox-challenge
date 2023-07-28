@@ -54,5 +54,13 @@ h2 {
   .flex-txt {
     padding: 0 1em;
     font-size: 18px;
+
+    p:first-child {
+      margin-bottom: 2em;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
   }
 }

@@ -47,4 +47,10 @@ h2 {
 .txt-section .flex-txt {
   padding: 0 1em;
   font-size: 18px;
+}
+.txt-section .flex-txt p:first-child {
+  margin-bottom: 2em;
+}
+.txt-section .flex-txt p:last-child {
+  margin-bottom: 0;
 }/*# sourceMappingURL=styles.css.map */
