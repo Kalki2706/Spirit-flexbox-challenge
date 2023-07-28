@@ -10,9 +10,21 @@ section {
   padding: 0 0.5em;
 }
 
+h1,
+h2 {
+  font-family: "Playfair Display", serif;
+}
+
 .home-section {
   background: #f3eed9;
 }
-.home-section .heading > h1 {
+.home-section .heading p {
+  font-size: 1rem;
+  letter-spacing: 0.3rem;
+  font-family: "Roboto", serif;
+}
+.home-section .heading h1 {
   color: #824936;
+  font-size: 2.8125rem;
+  line-height: 1.28em;
 }/*# sourceMappingURL=styles.css.map */
