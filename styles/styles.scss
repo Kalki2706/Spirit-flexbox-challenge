@@ -7,7 +7,7 @@ body {
 }
 
 section {
-  padding: 4em 0.5em;
+  padding: 4em 1em;
 }
 
 h1,
@@ -58,7 +58,6 @@ img {
 
 // MAIN SECTION
 .txt-section {
-  padding: 4em 0;
   text-align: center;
 
   h2 {
@@ -69,13 +68,13 @@ img {
   }
 
   .flex-txt {
-    padding: 0 1em;
+    // padding: 0 1em;
 
-    p:first-child {
+    .para-one {
       margin-bottom: 2em;
     }
 
-    p:last-child {
+    .para-two {
       margin-bottom: 0;
     }
   }
@@ -86,11 +85,6 @@ img {
 .rev-img-txt-section {
   color: #fff;
   text-align: center;
-  padding: 4em 1em;
-
-  h2 {
-    text-align: center;
-  }
 }
 
 // THIRD SECTION - IMG TXT SECTION

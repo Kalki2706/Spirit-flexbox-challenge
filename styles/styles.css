@@ -7,7 +7,7 @@ body {
 }
 
 section {
-  padding: 4em 0.5em;
+  padding: 4em 1em;
 }
 
 h1,
@@ -52,7 +52,6 @@ img {
 }
 
 .txt-section {
-  padding: 4em 0;
   text-align: center;
 }
 .txt-section h2 {
@@ -61,24 +60,16 @@ img {
   margin: 0;
   padding-bottom: 1em;
 }
-.txt-section .flex-txt {
-  padding: 0 1em;
-}
-.txt-section .flex-txt p:first-child {
+.txt-section .flex-txt .para-one {
   margin-bottom: 2em;
 }
-.txt-section .flex-txt p:last-child {
+.txt-section .flex-txt .para-two {
   margin-bottom: 0;
 }
 
 .img-txt-section,
 .rev-img-txt-section {
   color: #fff;
-  text-align: center;
-  padding: 4em 1em;
-}
-.img-txt-section h2,
-.rev-img-txt-section h2 {
   text-align: center;
 }
 
