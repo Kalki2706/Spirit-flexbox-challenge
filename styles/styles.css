@@ -12,4 +12,7 @@ section {
 
 .home-section {
   background: #f3eed9;
+}
+.home-section .heading > h1 {
+  color: #824936;
 }/*# sourceMappingURL=styles.css.map */
