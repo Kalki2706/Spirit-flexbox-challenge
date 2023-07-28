@@ -60,10 +60,10 @@ img {
   margin: 0;
   padding-bottom: 1em;
 }
-.txt-section .flex-txt .para-one {
+.txt-section .flex-paras .para-one {
   margin-bottom: 2em;
 }
-.txt-section .flex-txt .para-two {
+.txt-section .flex-paras .para-two {
   margin-bottom: 0;
 }
 
