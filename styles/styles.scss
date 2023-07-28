@@ -144,4 +144,28 @@ img {
       gap: 1.5em;
     }
   }
+
+  // THIRD_FOURTH SECTION
+  .main-section {
+    display: flex;
+    gap: 1.5em;
+
+    .txt-box {
+      width: 50%;
+
+      h2 {
+        text-align: left;
+        margin-top: 0;
+      }
+    }
+
+    .img {
+      width: 50%;
+      align-self: start;
+    }
+  }
+
+  .rev-img-txt-section {
+    padding-bottom: 4em;
+  }
 }

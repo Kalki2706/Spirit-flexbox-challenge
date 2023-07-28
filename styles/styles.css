@@ -115,4 +115,22 @@ img {
     display: flex;
     gap: 1.5em;
   }
+  .main-section {
+    display: flex;
+    gap: 1.5em;
+  }
+  .main-section .txt-box {
+    width: 50%;
+  }
+  .main-section .txt-box h2 {
+    text-align: left;
+    margin-top: 0;
+  }
+  .main-section .img {
+    width: 50%;
+    align-self: start;
+  }
+  .rev-img-txt-section {
+    padding-bottom: 4em;
+  }
 }/*# sourceMappingURL=styles.css.map */
