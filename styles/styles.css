@@ -17,7 +17,6 @@ h2 {
 
 .home-section {
   background: #f3eed9;
-  padding: 2em 1em;
   min-height: 98vh;
   display: flex;
   flex-direction: column;
@@ -35,9 +34,6 @@ h2 {
   line-height: 1.28em;
 }
 
-.txt-section h2 {
-  text-align: center;
-  color: #824936;
-  font-size: 1.875rem;
-  margin-top: 0;
+.txt-section {
+  padding: 4em 0;
 }/*# sourceMappingURL=styles.css.map */
