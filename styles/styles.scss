@@ -18,6 +18,12 @@ h2 {
 // HOME SECTION
 .home-section {
   background: #f3eed9;
+  padding: 2em 1em;
+  min-height: 98vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
 
   .heading {
     p {
