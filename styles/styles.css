@@ -25,6 +25,12 @@ p {
   line-height: 1.5em;
 }
 
+img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
 .home-section {
   background: #f3eed9;
   min-height: 98vh;
