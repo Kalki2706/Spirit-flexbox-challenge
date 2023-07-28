@@ -43,4 +43,8 @@ h2 {
   font-size: 2rem;
   margin: 0;
   padding-bottom: 1em;
+}
+.txt-section .flex-txt {
+  padding: 0 1em;
+  font-size: 18px;
 }/*# sourceMappingURL=styles.css.map */
