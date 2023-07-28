@@ -80,4 +80,14 @@ img {
 .img-txt-section h2,
 .rev-img-txt-section h2 {
   text-align: center;
+}
+
+.img-txt-section {
+  background: #222c2a;
+}
+.img-txt-section h2 {
+  margin-top: 0;
+}
+.img-txt-section p {
+  margin-bottom: 2.5em;
 }/*# sourceMappingURL=styles.css.map */
