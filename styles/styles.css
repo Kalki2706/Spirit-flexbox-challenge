@@ -1,1 +1,8 @@
-/*# sourceMappingURL=styles.css.map */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0 0.5em;
+}/*# sourceMappingURL=styles.css.map */
