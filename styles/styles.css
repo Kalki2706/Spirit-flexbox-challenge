@@ -100,4 +100,12 @@ img {
     text-align: left;
     font-size: 20px;
   }
+  .home-section > .heading h1 {
+    font-size: 3.4375rem;
+    max-width: 600px;
+  }
+  .home-section > .heading p {
+    text-align: center;
+    font-size: 1.125rem;
+  }
 }/*# sourceMappingURL=styles.css.map */
