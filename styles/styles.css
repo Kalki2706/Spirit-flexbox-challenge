@@ -36,4 +36,11 @@ h2 {
 
 .txt-section {
   padding: 4em 0;
+}
+.txt-section h2 {
+  text-align: center;
+  color: #824936;
+  font-size: 2rem;
+  margin: 0;
+  padding-bottom: 1em;
 }/*# sourceMappingURL=styles.css.map */
