@@ -52,6 +52,8 @@ img {
       font-size: 2.8125rem;
       line-height: 1.28em;
       word-wrap: break-word;
+      max-width: 400px;
+      margin: 0 auto;
     }
   }
 }
@@ -79,8 +81,7 @@ img {
 }
 
 // THIRD_FOURTH SECTION
-.img-txt-section,
-.rev-img-txt-section {
+.main-section {
   color: #fff;
   text-align: center;
 }
