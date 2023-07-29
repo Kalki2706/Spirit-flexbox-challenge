@@ -139,4 +139,9 @@ img {
     width: 100vw;
     margin: 0;
   }
+  .container {
+    margin: 0 auto;
+    width: 1200px;
+    padding: 6em 0em;
+  }
 }/*# sourceMappingURL=styles.css.map */
