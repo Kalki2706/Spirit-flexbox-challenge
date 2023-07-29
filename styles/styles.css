@@ -144,4 +144,8 @@ img {
     width: 1200px;
     padding: 6em 0em;
   }
+  p {
+    font-size: 21px;
+    line-height: 1.6em;
+  }
 }/*# sourceMappingURL=styles.css.map */
