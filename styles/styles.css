@@ -133,4 +133,10 @@ img {
   .rev-img-txt-section {
     padding-bottom: 4em;
   }
+}
+@media only screen and (min-width: 1200px) {
+  section {
+    width: 100vw;
+    margin: 0;
+  }
 }/*# sourceMappingURL=styles.css.map */

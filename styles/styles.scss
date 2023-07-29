@@ -169,3 +169,11 @@ img {
     padding-bottom: 4em;
   }
 }
+
+// FOR 1200px DEVICE
+@media only screen and (min-width: 1200px) {
+  section {
+    width: 100vw;
+    margin: 0;
+  }
+}
