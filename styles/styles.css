@@ -6,7 +6,7 @@ body {
   margin: 0;
 }
 
-section {
+.container {
   padding: 4em 1em;
 }
 
@@ -90,7 +90,7 @@ img {
 }
 
 @media only screen and (min-width: 700px) {
-  section {
+  .container {
     padding: 5em 1.5em;
   }
   h2 {
